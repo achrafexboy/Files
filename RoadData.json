@@ -6,16 +6,16 @@
       "startingPoint": {
         "latitude": 37.123456,
         "longitude": -122.987654,
-        "altitude": 100.0
+        "altitude": 100.1254
       },
       "endingPoint": {
         "latitude": 37.234567,
         "longitude": -122.876543,
-        "altitude": 150.0
+        "altitude": 150.468
       },
       "Distance": {
-        "nextStation": 25.0,
-        "previousStation": 24.0
+        "nextStation": 25.10,
+        "previousStation": 24.20
       }
     },
     {
@@ -23,16 +23,16 @@
       "startingPoint": {
         "latitude": 37.234567,
         "longitude": -122.876543,
-        "altitude": 150.0
+        "altitude": 150.68764
       },
       "endingPoint": {
         "latitude": 37.345678,
         "longitude": -122.765432,
-        "altitude": 200.0
+        "altitude": 200.1648
       },
       "Distance": {
-        "nextStation": 22.0,
-        "previousStation": 27.0
+        "nextStation": 22.45,
+        "previousStation": 27.89
       }
     }
   ]
