@@ -1,0 +1,39 @@
+{
+  "roadName": "D22",
+  "roadSegments": [
+    {
+      "segmentId": 1,
+      "startingPoint": {
+        "latitude": 37.123456,
+        "longitude": -122.987654,
+        "altitude": 100
+      },
+      "endingPoint": {
+        "latitude": 37.234567,
+        "longitude": -122.876543,
+        "altitude": 150
+      },
+      "Distance": {
+        "nextStation": 25,
+        "previousStation": 24
+      }
+    },
+    {
+      "segmentId": 2,
+      "startingPoint": {
+        "latitude": 37.234567,
+        "longitude": -122.876543,
+        "altitude": 150
+      },
+      "endingPoint": {
+        "latitude": 37.345678,
+        "longitude": -122.765432,
+        "altitude": 200
+      },
+      "Distance": {
+        "nextStation": 22,
+        "previousStation": 27
+      }
+    }
+  ]
+}
