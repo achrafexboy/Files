@@ -48,8 +48,8 @@
         "altitude": 200.16
       },
       "Distance": {
-        "nextStation": 22.45,
-        "previousStation": 27.89
+        "nextStation": 20.33,
+        "previousStation": 30.01
       }
     },
     {
@@ -65,8 +65,8 @@
         "altitude": 200.16
       },
       "Distance": {
-        "nextStation": 22.45,
-        "previousStation": 27.89
+        "nextStation": 15.10,
+        "previousStation": 34.25
       }
     },
     {
@@ -82,8 +82,8 @@
         "altitude": 200.16
       },
       "Distance": {
-        "nextStation": 22.45,
-        "previousStation": 27.89
+        "nextStation": 7.15,
+        "previousStation": 45.89
       }
     }
   ]
