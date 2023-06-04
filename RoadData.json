@@ -4,13 +4,13 @@
     {
       "segmentId": 1,
       "startingPoint": {
-        "latitude": 45.183712,
-        "longitude": 5.731084,
+        "latitude": 45.183602,
+        "longitude": 5.730845,
         "altitude": 100.12
       },
       "endingPoint": {
-        "latitude": 45.183284,
-        "longitude": 5.730052,
+        "latitude": 45.183693,
+        "longitude": 5.731076,
         "altitude": 150.46
       },
       "Distance": {
@@ -21,13 +21,13 @@
     {
       "segmentId": 2,
       "startingPoint": {
-        "latitude": 45.183284,
-        "longitude": 5.730052,
+        "latitude": 45.183693,
+        "longitude": 5.731076,
         "altitude": 150.46
       },
       "endingPoint": {
-        "latitude": 45.182776,
-        "longitude": 5.728899,
+        "latitude": 45.183795,
+        "longitude": 5.731323,
         "altitude": 200.16
       },
       "Distance": {
@@ -38,13 +38,13 @@
     {
       "segmentId": 3,
       "startingPoint": {
-        "latitude": 45.182776,
-        "longitude": 5.728899,
-        "altitude": 150.68
+        "latitude": 45.183795,
+        "longitude": 5.731323,
+        "altitude": 200.16
       },
       "endingPoint": {
-        "latitude": 45.181707,
-        "longitude": 5.726328,
+        "latitude": 45.18395,
+        "longitude": 5.731457,
         "altitude": 200.16
       },
       "Distance": {
@@ -55,13 +55,13 @@
     {
       "segmentId": 4,
       "startingPoint": {
-        "latitude": 45.181707,
-        "longitude": 5.726328,
+        "latitude": 45.18395,
+        "longitude": 5.731457,
         "altitude": 200.16
       },
       "endingPoint": {
-        "latitude": 45.181365,
-        "longitude": 5.725083,
+        "latitude": 45.184226,
+        "longitude": 5.731505,
         "altitude": 200.16
       },
       "Distance": {
@@ -72,13 +72,13 @@
     {
       "segmentId": 5,
       "startingPoint": {
-        "latitude": 45.181365,
-        "longitude": 5.725083,
+        "latitude": 45.184226,
+        "longitude": 5.731505,
         "altitude": 200.16
       },
       "endingPoint": {
-        "latitude": 45.181076,
-        "longitude": 5.723490,
+        "latitude": 45.184551,
+        "longitude": 5.731559,
         "altitude": 200.16
       },
       "Distance": {
