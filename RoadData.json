@@ -99,8 +99,8 @@
         "altitude": 101.35
       },
       "Distance": {
-        "nextStation": 7.15,
-        "previousStation": 45.89
+        "nextStation": 6.22,
+        "previousStation": 48.49
       }
     },
     {
@@ -116,8 +116,8 @@
         "altitude": 101.35
       },
       "Distance": {
-        "nextStation": 7.15,
-        "previousStation": 45.89
+        "nextStation": 5.21,
+        "previousStation": 49.99
       }
     },
     {
@@ -133,8 +133,8 @@
         "altitude": 101.35
       },
       "Distance": {
-        "nextStation": 7.15,
-        "previousStation": 45.89
+        "nextStation": 4.01,
+        "previousStation": 51.19
       }
     },
     {
@@ -150,8 +150,8 @@
         "altitude": 101.35
       },
       "Distance": {
-        "nextStation": 7.15,
-        "previousStation": 45.89
+        "nextStation": 2.74,
+        "previousStation": 52.77
       }
     },
     {
@@ -167,8 +167,8 @@
         "altitude": 101.35
       },
       "Distance": {
-        "nextStation": 7.15,
-        "previousStation": 45.89
+        "nextStation": 1.0,
+        "previousStation": 55.11
       }
     }
   ]
